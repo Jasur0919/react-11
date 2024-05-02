@@ -1,0 +1,58 @@
+.mobile{
+    /* background: rgb(43, 63, 214); */
+
+}
+
+.single_cards {
+    display: flex;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    gap: 30px;
+    padding: 100px 0;
+}
+
+.single_image_appearances{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.single_image_appearances img{
+    width: 150px;
+    height: 150px;
+}
+
+
+.single_image img{
+    max-width: 550px;
+    height: 517px;
+}
+
+.single_text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.h2 {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+
+}
+.brand-link {
+    width: 70px;
+    height: 70px;
+}
+
+.price-h2 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.h3 {
+    font-size: 17px;
+    color: red;
+}
+
